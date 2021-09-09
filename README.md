@@ -1,8 +1,11 @@
-### Hi there 👋
-
 <div>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyu-JeongMoon" 
-style="height : auto; margin-left : 10px; margin-right : 10px;" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyu-JeongMoon" 
+    style="height : auto; margin-left : 10px; margin-right : 10px;" />
+    <a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://ryumodrn.tistory.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
 </div>
 
 ## Ryu-JeongMoon : Backend Developer
@@ -15,10 +18,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" />
 - Git
 - Vue.js 𝗩
 
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://ryumodrn.tistory.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
 
 
