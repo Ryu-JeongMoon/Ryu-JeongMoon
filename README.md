@@ -18,6 +18,7 @@
 - Git
 - Vue.js 𝗩
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryu-JeongMoon&count_private=true&show_icons=true&theme=radical)
 
 
 
