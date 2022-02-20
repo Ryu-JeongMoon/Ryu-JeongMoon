@@ -20,7 +20,6 @@
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryu-JeongMoon&include_all_commits=false&count_private=true&show_icons=true&theme=onedark)
 
 
 
