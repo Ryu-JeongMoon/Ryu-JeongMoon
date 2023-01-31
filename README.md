@@ -1,6 +1,4 @@
 <div>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyu-JeongMoon" 
-    style="height : auto; margin-left : 10px; margin-right : 10px;" />
     <a href="https://ryumodrn.tistory.com">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://ryumodrn.tistory.com"
@@ -16,7 +14,6 @@
 - SpringBoot 🌱
 - MySQL 🐬
 - Git
-- Vue.js 𝗩
 
 <hr>
 
